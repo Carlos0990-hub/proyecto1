@@ -3,6 +3,11 @@ from flask import Flask, jsonify, request
 from flask_mysqldb import MySQL
 
 
+#Cambio hecho 04/12/2020
+
+
+
+
 print('Hacer petición a BBVA Bancomer de saldo del cliente')
 
 
